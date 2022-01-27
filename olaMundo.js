@@ -1,2 +1,2 @@
 console.log("Olá, Mundo!")
-console.log("Olá, Cubos!")
+console.log("Olá, Cubos")
